@@ -4,12 +4,12 @@
 
 Package inputcheck provides advanced input validation for Go applications, including IPv4, IPv6, domain validation, and more.
 
-## Install
+## Install
 
 `go get -u https://github.com/jaavier/inputcheck`
 
 
-## Import
+## Import
 
 ```go
 package main
